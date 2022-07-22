@@ -3,8 +3,8 @@ desenvolvendo minhas habilidades como designer e estudando para alcançar bons l
 
 Minhas linguagens que já pratico e pretendo me aprimorar:
 
--HTML5 (Ainda em Progresso);
--CSS3 (Ainda em Progresso);
+-HTML5 (avançado);
+-CSS3 (avançado);
 -JavaScript (Ainda em Progresso);
 -React;
 -Bootstrap;
