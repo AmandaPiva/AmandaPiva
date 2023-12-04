@@ -4,6 +4,8 @@ Tecnologias de atuação:
 
 -Typescript;
 - Node.JS;
+- Spring Boot;
+- Spring JPA;
 - SQL;
 -React.JS;
 - Noções básicas de Linux;
